@@ -32,7 +32,7 @@ namespace StudentInformation.Models
         }
 
             //Phone
-            private string phoneNumber;
+            public string phoneNumber;
 
             public string GetPhoneNumber()
             {
