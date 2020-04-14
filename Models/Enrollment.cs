@@ -13,8 +13,10 @@ namespace StudentInformation.Models
         public Guid CourseID { get; set; }
         public Guid StudentID { get; set; }
         public Grade? Grade { get; set; }
-
+//Navigation properties
         public Course Course { get; set; }
         public Student Student { get; set; }
+
+        
     }
 }

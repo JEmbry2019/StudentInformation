@@ -9,6 +9,8 @@ namespace StudentInformation.Models
         public string Title { get; set; }
         public int Credits { get; set; }
 
+        public Grade Type { get; set; }
+
         public ICollection<Enrollment> Enrollments { get; set; }
     }
 }

@@ -147,3 +147,5 @@ C:\Users\jmsem\Desktop\StudentInformation\obj\Debug\netcoreapp3.1\Razor\Views\Co
 C:\Users\jmsem\Desktop\StudentInformation\obj\Debug\netcoreapp3.1\Razor\Views\Course\Details.cshtml.g.cs
 C:\Users\jmsem\Desktop\StudentInformation\obj\Debug\netcoreapp3.1\Razor\Views\Course\Edit.cshtml.g.cs
 C:\Users\jmsem\Desktop\StudentInformation\obj\Debug\netcoreapp3.1\Razor\Views\Course\Index.cshtml.g.cs
+C:\Users\jmsem\Desktop\StudentInformation\obj\Debug\netcoreapp3.1\StudentInformation.csproj.CoreCompileInputs.cache
+C:\Users\jmsem\Desktop\StudentInformation\obj\Debug\netcoreapp3.1\StudentInformation.genruntimeconfig.cache
